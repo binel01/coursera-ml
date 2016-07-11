@@ -1,2 +1,2 @@
-# coursera-ml
-Coursera Machine Learning 
+# Coursera Machine Learning 
+Solutions of assignments 
